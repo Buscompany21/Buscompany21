@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm an aspiring cybersecurity professional in Utah.
+#### I'm an aspiring information security professional in Utah.
 
 ##### BIO
 
