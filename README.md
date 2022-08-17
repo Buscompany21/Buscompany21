@@ -1,11 +1,20 @@
-### Hi there 👋
+```js
+import InfoSec_Student from 'Buscompany21';
 
-#### I'm an aspiring information security professional in Utah.
+class Bio extends InfoSec_Student {
+  name       = 'Brian Busco';
+  school     = 'Brigham Young University Marriott School of Business'
+  degree     = 'Master of information systems management'
+  graduation = 'April 2024'
+  title      = 'Cybersecurity Analyst';
+  company    = 'Arctic Wolf | Pleasant Grove, UT';
+  location   = 'Utah, US';
+}
 
-##### BIO
-
-- 🏢 I'm currently working at **Arctic Wolf**
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **security**, **risk management**, **network security**, **critical thinking**
-- 📫 Reach me: [linkedin.com/in/brian-busco/](https://www.linkedin.com/in/brian-busco/)
-
+class Skills extends InfoSec_Student {
+  languages  = ['Python', 'Javascript', 'C#', 'SQL', 'VBA', 'Regex'];
+  tools      = ['Kali', 'Wireshark', 'Kibana', 'TCP/IP Networking'];
+  frameworks = ['ASP.NET', 'Python Django', 'Node JS'];
+}
+```
+📫 Reach me: [linkedin.com/in/brian-busco/](https://www.linkedin.com/in/brian-busco/)
