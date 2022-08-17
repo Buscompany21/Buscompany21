@@ -20,7 +20,7 @@ class Work extends InfoSec_Student {
 
 class Skills extends InfoSec_Student {
   languages  = ['Python', 'Javascript', 'C#', 'SQL', 'VBA', 'Regex'];
-  tools      = ['Kali', 'Wireshark', 'Kibana', 'TCP/IP Networking'];
+  tools      = ['Kali', 'Metasploit', 'Wireshark', 'Kibana', 'TCP/IP Networking'];
   frameworks = ['ASP.NET', 'Python Django', 'Node JS'];
 }
 
