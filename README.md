@@ -20,5 +20,10 @@ class Skills extends InfoSec_Student {
   tools      = ['Kali', 'Wireshark', 'Kibana', 'TCP/IP Networking'];
   frameworks = ['ASP.NET', 'Python Django', 'Node JS'];
 }
+
+class Interests extends InfoSec_Student {
+  professional  = ['Security Architecture and Engineering', 'Cloud/SysOps', 'Security and Risk Management'];
+  hobbies       = ['Mountain Biking', 'Snowboarding', 'Traveling', 'Basketball'];
+}
 ```
 📫 Reach me: [linkedin.com/in/brian-busco/](https://www.linkedin.com/in/brian-busco/)
