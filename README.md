@@ -10,9 +10,12 @@ class Bio extends InfoSec_Student {
   school     = 'Brigham Young University Marriott School of Business'
   degree     = 'Master of information systems management'
   graduation = 'April 2024'
-  title      = 'Cybersecurity Analyst';
-  company    = 'Arctic Wolf | Pleasant Grove, UT';
-  location   = 'Utah, US';
+}
+
+class Work extends InfoSec_Student {
+  title    = 'Cybersecurity Analyst';
+  company  = 'Arctic Wolf';
+  location = 'Pleasant Grove, UT';
 }
 
 class Skills extends InfoSec_Student {
@@ -22,8 +25,8 @@ class Skills extends InfoSec_Student {
 }
 
 class Interests extends InfoSec_Student {
-  professional  = ['Security Architecture and Engineering', 'Cloud/SysOps', 'Security and Risk Management'];
-  hobbies       = ['Mountain Biking', 'Snowboarding', 'Traveling', 'Basketball'];
+  professional = ['Security Architecture and Engineering', 'Cloud/SysOps', 'Security and Risk Management'];
+  hobbies      = ['Mountain Biking', 'Snowboarding', 'Traveling', 'Basketball'];
 }
 ```
 📫 Reach me: [linkedin.com/in/brian-busco/](https://www.linkedin.com/in/brian-busco/)
