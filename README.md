@@ -1,5 +1,5 @@
 <h2> Hi, I'm Brian Busco!</h2>
-<h4><em>Information Systems Student</em> at <a href="https://marriott.byu.edu/" target="_blank">Brigham Young University</a><h4>
+<h4><em>Master of Information Systems Management Student</em> at <a href="https://marriott.byu.edu/" target="_blank">Brigham Young University</a><h4>
 <h4><em>Cyber Security Analyst</em> at <a href="https://arcticwolf.com/" target="_blank">Arctic Wolf</a><h4>
 
 ```js
